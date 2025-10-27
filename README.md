@@ -1,6 +1,8 @@
 # 🚀 Building a Secure and Scalable AWS VPC Infrastructure
 
-![AWS Banner](https://upload.wikimedia.org/wikipedia/commons/9/93/Amazon_Web_Services_Logo.svg)
+<p align="center">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/9/93/Amazon_Web_Services_Logo.svg" alt="AWS Logo" width="180"/>
+</p>
 
 ## 🌐 Project Overview
 
@@ -110,9 +112,11 @@ VPC (10.0.0.0/16)
 - Automate the setup using **Terraform** or **AWS CloudFormation**  
 - Add **CloudWatch metrics and alerts** for proactive monitoring  
 - Implement **AWS WAF (Web Application Firewall)** for application-level protection  
-- Integrate **Route 53** for DNS-based load balancing  
+- Integrate **Route 53** for DNS-based load balancing
 
 ---
 
 ⭐ *If you found this project helpful, please star the repository and connect with me on LinkedIn!* ⭐
+  
+
 
